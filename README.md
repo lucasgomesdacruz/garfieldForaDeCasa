@@ -1,4 +1,4 @@
-# CineGarfild🚀 
+# GarfieldForaDeCasa🚀 
 ![image](https://github.com/user-attachments/assets/d4fe01c4-8f49-4ff8-81fd-24671d303539)
 
 ## 🔥 
