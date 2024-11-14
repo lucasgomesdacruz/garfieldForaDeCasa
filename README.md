@@ -27,6 +27,9 @@ Esse projeto está sob a licença (MIT License)
 **Link para o meu linkedin - [@LucasGomes](https://www.linkedin.com/in/lucaass1997)**
 
 ### projeto estilizado
+
+# <a>https://github.com/lucasgomesdacruz/Desafio1-VNW <a/>
+
 # <a>https://lucasgomesdacruz.github.io/Desafio1-VNW/index.html <a/>
 
 ![CineGarfild-11-10-2024_02_01_AM](https://github.com/user-attachments/assets/ca38c5a4-8472-465a-8add-0a72a3b30c63)
